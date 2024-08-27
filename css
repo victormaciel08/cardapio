@@ -1,0 +1,35 @@
+.geral{
+    background-color: rgb(150, 24, 45);
+    border: 1px solid blanchedalmond;
+    border-radius: 7px;
+    width: 1000px;
+}
+.nome{
+    text-align: center;
+    font-style: italic;
+    font-size: 45px;
+}
+
+.tit{
+    margin-left: 7px;
+    font-style: italic;
+}
+
+.topic1{
+    border: 2px solid whitesmoke;
+    border-radius: 7px;
+    margin-left: 10px;
+    width: 700px;
+    margin-top: 5px;
+}
+
+.menu{
+    font-style: italic;    
+    font-size: 19px;
+    margin-left: 13px;
+}
+.nomes{
+    font-style: italic;
+    font-weight: bold;
+    font-size: 19px;
+}
